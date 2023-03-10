@@ -57,6 +57,18 @@ span.psw {
   padding-top: 16px;
 }
 
+fieldset {
+  margin-top: 50px;
+  text-align: left;
+  display: flex;
+  felx-direction: column;
+  background-color: green;
+  width: fit-content;
+  margin:auto;
+}
+
+img {
+  max-width: 50%;
 
 /* The Modal (background) */
 .modal {
